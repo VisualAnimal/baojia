@@ -35,7 +35,7 @@ const Wrap = styled.span`
     text-overflow: ellipsis; /* 在文本溢出时显示省略号 */
   }
   .price{
-    width:12%;
+    width:13%;
     font-weight: bold;
     opacity:0.8;
     white-space: nowrap; /* 禁止文本换行 */
